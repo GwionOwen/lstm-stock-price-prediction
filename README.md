@@ -66,6 +66,10 @@ The chart shows:
 - `silj_lstm_forecast.png`
 - `requirements.txt`
 
+## Notebook
+
+GitHub notebook version: `lstm_stock_prediction.ipynb`  
+Google Colab version: [Open in Colab](https://colab.research.google.com/drive/16BWO6tzb_NitOA6XJkGold2hwz_Ydf7B?usp=sharing)
 ## How to Run
 
 1. Install dependencies:
