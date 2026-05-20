@@ -49,6 +49,8 @@ The chart shows:
 - predicted prices on the test set
 - 30-business-day forward forecast
 
+![Forecast Chart](silj_lstm_forecast.png)
+
 ## Key Skills Demonstrated
 
 - Python
