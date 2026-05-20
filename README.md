@@ -60,9 +60,9 @@ The chart shows:
 
 ## Files
 
-- `lstm_stock_prediction.py` or notebook
-- forecast chart image
-- optional notes or results summary
+- `lstm_stock_prediction.py`
+- `silj_lstm_forecast.png`
+- `requirements.txt`
 
 ## How to Run
 
