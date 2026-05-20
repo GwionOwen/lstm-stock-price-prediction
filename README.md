@@ -76,3 +76,8 @@ Google Colab version: [Open in Colab](https://colab.research.google.com/drive/16
 
 ```bash
 pip install numpy pandas yfinance scikit-learn tensorflow matplotlib
+```
+
+## Author
+
+Gwïon Rhys Owen
